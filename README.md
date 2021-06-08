@@ -1,4 +1,4 @@
-# Wikipedia-Scraper
+# neatly Notes
 
 ## Table of Contents
 
