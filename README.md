@@ -1,11 +1,5 @@
 # Neatly Notes
 
-## Table of Contents
-
--   [About the project](#about-the-project)
--   [Tech Stack used](#tech-stack-used)
--   [Install and Run](#install-and-run)
-
 ## About the project and Glimpse of what I have created
 
 In this project I have used material-UI and some of its functionality to practice, learn and tried to implement.
