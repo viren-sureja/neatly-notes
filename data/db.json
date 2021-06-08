@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "title": "lorem",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque facilis laborum provident vero odit? Quas magni vitae, reiciendis blanditiis distinctio perferendis repellat eveniet, optio amet architecto ut eaque fuga porro.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque facilis laborum provident vero odit? Quas magni vitae, reiciendis blanditiis distinctio perferendis repellat eveniet, optio amet architecto ut eaque fuga porro.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "ipsum",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque facilis laborum provident vero odit? Quas magni vitae, reiciendis blanditiis distinctio perferendis repellat eveniet, optio amet architecto ut eaque fuga porro.",
+      "category": "work",
+      "id": 4
+    },
+    {
+      "title": "lorem",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque facilis laborum provident vero odit? Quas magni vitae, reiciendis blanditiis distinctio perferendis repellat eveniet, optio amet architecto ut eaque fuga porro.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque facilis laborum provident vero odit? Quas magni vitae, reiciendis blanditiis distinctio perferendis repellat eveniet, optio amet architecto ut eaque fuga porro.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque facilis laborum provident vero odit? Quas magni vitae, reiciendis blanditiis distinctio perferendis repellat eveniet, optio amet architecto ut eaque fuga porro.",
+      "category": "reminders",
+      "id": 5
+    },
+    {
+      "title": "shipping",
+      "details": "clean your code before shipping it.",
+      "category": "work",
+      "id": 6
+    },
+    {
+      "title": "lorem",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque facilis laborum provident vero odit? Quas magni vitae, reiciendis blanditiis distinctio perferendis repellat eveniet, optio amet architecto ut eaque fuga porro.",
+      "category": "money",
+      "id": 7
+    },
+    {
+      "title": "lorem",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque facilis laborum provident vero odit? Quas magni vitae, reiciendis blanditiis distinctio perferendis repellat eveniet, optio amet architecto ut eaque fuga porro.",
+      "category": "work",
+      "id": 8
+    },
+    {
+      "title": "lorem",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque facilis laborum provident vero odit? Quas magni vitae, reiciendis blanditiis distinctio perferendis repellat eveniet, optio amet architecto ut eaque fuga porro.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque facilis laborum provident vero odit? Quas magni vitae, reiciendis blanditiis distinctio perferendis repellat eveniet, optio amet architecto ut eaque fuga porro.",
+      "category": "reminders",
+      "id": 9
+    },
+    {
+      "title": "lorem",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque facilis laborum provident vero odit? Quas magni vitae, reiciendis blanditiis distinctio perferendis repellat eveniet, optio amet architecto ut eaque fuga porro.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque facilis laborum provident vero odit? Quas magni vitae, reiciendis blanditiis distinctio perferendis repellat eveniet, optio amet architecto ut eaque fuga porro.",
+      "category": "reminders",
+      "id": 10
+    },
+    {
+      "title": "lorem",
+      "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti possimus molestiae, minima amet aliquam obcaecati harum, quas incidunt odio quia dolor consequuntur? Quod repellat architecto nostrum quas, neque a! Architecto?",
+      "category": "todos",
+      "id": 11
+    }
+  ]
+}
