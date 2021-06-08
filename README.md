@@ -1,4 +1,4 @@
-# neatly Notes
+# Neatly Notes
 
 ## Table of Contents
 
@@ -12,10 +12,10 @@ In this project I have used material-UI and some of its functionality to practic
 
 To create new Note
 
-<img src="NewNote.PNG" />
+<img src="./public/NewNote.png" />
 
 All the notes
-<img src="AllNotes.PNG" />
+<img src="./public/AllNotes.PNG" />
 
 ## Tech Stack used
 
