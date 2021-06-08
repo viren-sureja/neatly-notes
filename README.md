@@ -6,7 +6,7 @@
 -   [Tech Stack used](#tech-stack-used)
 -   [Install and Run](#install-and-run)
 
-## About the project
+## About the project and Glimpse of what I have created
 
 In this project I have used material-UI and some of its functionality to practice, learn and tried to implement.
 
@@ -15,7 +15,7 @@ To create new Note
 <img src="./public/NewNote.png" />
 
 All the notes
-<img src="./public/AllNotes.PNG" />
+<img src="./public/AllNotes.png" />
 
 ## Tech Stack used
 
